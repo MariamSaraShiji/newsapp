@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "BBC News",
+    "author": "Jane Smith",
+    "title": "Another Important Event",
+    "description": "Details about another important event happening around the world.",
+    "url": "https://www.bbc.com/news/world/2024/importantevent",
+    "urlToImage": "https://cdn.bbc.com/news/images/important-event.jpg",
+    "publishedAt": "2024-09-08T10:20:00Z",
+    "content": "This is the full article content for the important event happening globally."
+  },
+  {
+    "id": 2,
+    "name": "CNN",
+    "author": "John Doe",
+    "title": "Global Summit Recap",
+    "description": "A summary of the recent global summit and its outcomes.",
+    "url": "https://www.cnn.com/world/2024/globalsummitrecap",
+    "urlToImage": "https://cdn.cnn.com/news/images/global-summit.jpg",
+    "publishedAt": "2024-09-07T15:00:00Z",
+    "content": "Detailed insights and key takeaways from the global summit."
+  },
+  {
+    "id": 3,
+    "name": "Al Jazeera",
+    "author": "Emily Brown",
+    "title": "Economic Trends 2024",
+    "description": "An analysis of the latest economic trends and predictions for 2024.",
+    "url": "https://www.aljazeera.com/economy/2024/economic-trends",
+    "urlToImage": "https://cdn.aljazeera.com/news/images/economic-trends.jpg",
+    "publishedAt": "2024-09-06T09:30:00Z",
+    "content": "An in-depth look at the economic trends shaping 2024."
+  },
+  {
+    "id": 4,
+    "name": "The New York Times",
+    "author": "Michael Johnson",
+    "title": "Tech Innovations",
+    "description": "Exploring the latest innovations in technology.",
+    "url": "https://www.nytimes.com/tech/2024/innovations",
+    "urlToImage": "https://cdn.nytimes.com/news/images/tech-innovations.jpg",
+    "publishedAt": "2024-09-05T11:45:00Z",
+    "content": "A comprehensive review of the newest tech innovations."
+  },
+  {
+    "id": 5,
+    "name": "Reuters",
+    "author": "Laura Wilson",
+    "title": "Climate Change Report",
+    "description": "The latest report on climate change and its global impact.",
+    "url": "https://www.reuters.com/environment/2024/climate-change-report",
+    "urlToImage": "https://cdn.reuters.com/news/images/climate-change.jpg",
+    "publishedAt": "2024-09-04T14:20:00Z",
+    "content": "A detailed report on climate change and its effects worldwide."
+  },
+  {
+    "id": 6,
+    "name": "NBC News",
+    "author": "Sarah Miller",
+    "title": "Health Breakthroughs",
+    "description": "Recent breakthroughs in health and medicine.",
+    "url": "https://www.nbcnews.com/health/2024/breakthroughs",
+    "urlToImage": "https://cdn.nbcnews.com/news/images/health-breakthroughs.jpg",
+    "publishedAt": "2024-09-03T13:00:00Z",
+    "content": "An overview of the latest health and medical breakthroughs."
+  }
+]
